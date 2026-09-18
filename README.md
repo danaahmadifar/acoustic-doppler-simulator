@@ -1,5 +1,8 @@
 # Real-Time Acoustic & Doppler Simulator
 
+[![Demo-Video](https://img.youtube.com/vi/UFzAdcR2GBU/maxresdefault.jpg)](https://www.youtube.com/watch?v=UFzAdcR2GBU)
+https://youtu.be/UFzAdcR2GBU
+
 Echtzeit-Simulation von akustischen Ausbreitungseffekten, Doppler-Frequenzverschiebungen und räumlichem Stereo-Hören in MATLAB.
 Es können eigene .wav-Dateien genutzt werden, um die Effekte mit dieser zu testen.
 
